@@ -18,5 +18,7 @@ TPE: https://ninaencinosa.github.io/WEB-I/22-%20Eduardo%20Pereyra%20Yraola%2C%20
 
 >Empresa que carga posiciones, descripcion y vacantes con tope 20 (js): https://ninaencinosa.github.io/WEB-I/WEB1-EJ3/vacantes.html
 
+>Ingresar notas de materias y calcular promedio (js):  https://ninaencinosa.github.io/WEB-I/WEB1-EJ3/carga-y-promedio-notas.html
+
 ###### Parte practica ej 4 -> Servicio REST 
 
