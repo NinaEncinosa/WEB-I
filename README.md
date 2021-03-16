@@ -4,6 +4,8 @@ TPE: https://ninaencinosa.github.io/WEB-I/22-%20Eduardo%20Pereyra%20Yraola%2C%20
 
 # EJERCICIOS TIPO PARCIAL/FINAL:
 ###### Parte practica ej 1 -> Diseño RESPONSIVE
+>Ejemplo 1 de diseño responsive: https://ninaencinosa.github.io/WEB-I/Web1-Ej1/index.html
+>Ejemplo 2 de diseño responsive: https://ninaencinosa.github.io/WEB-I/Web1-Ej1/ej1.html
 
 ###### Parte practica ej 2 -> CSS buenas practicas
 
