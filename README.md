@@ -10,6 +10,9 @@ TPE: https://ninaencinosa.github.io/WEB-I/22-%20Eduardo%20Pereyra%20Yraola%2C%20
 >Ejemplo 2 de diseño responsive: https://ninaencinosa.github.io/WEB-I/Web1-Ej1/ej1.html
 <img width="200" src="https://github.com/NinaEncinosa/WEB-I/blob/main/Web1-Ej1/recu.png">
 
+>Ejemplo 3 de diseño responsive: https://ninaencinosa.github.io/WEB-I/Web1-Ej1/practica.html
+<img width="200" src="https://github.com/NinaEncinosa/WEB-I/blob/main/Web1-Ej1/practica.png">
+
 
 ###### Parte practica ej 2 -> CSS buenas practicas
 
