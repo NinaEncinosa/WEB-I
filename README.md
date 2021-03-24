@@ -40,6 +40,22 @@ TPE: https://ninaencinosa.github.io/WEB-I/22-%20Eduardo%20Pereyra%20Yraola%2C%20
 >>>>>
 >>>>>footer{ background-color: black; border-top: blue 12px; color: white; margin-top: 10px; }
 
+>>EJEMPLO 2 DE CONSIGNA:
+
+>>>1.	La tipografía del todos los títulos (h1, h2...h5) debe ser “OpenFont Italic”.
+>>>>>
+>>>>>h1, h2, h3, h4, h5 {font-family: “OpenFont Italic”;}
+
+>>>2.	Los párrafos dentro de un div con clase ".publicidad" deben tener fuente “Times New Roman”.
+>>>>>
+>>>>>div.publicidad > p {font-family: "Times New Roman";}
+
+>>>3.	Todos los párrafos deben verse en negrita salvo aquellos con la clase “.light”.
+>>>>>p {font-weight: bold;}
+>>>>>
+>>>>>.light {font-weight: inherit;}
+
+
 ###### Parte practica ej 3 -> JS 
 >Calculadora de operaciones basicas (js): https://ninaencinosa.github.io/WEB-I/WEB1-EJ3/calculadora.html
 
